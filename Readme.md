@@ -14,7 +14,7 @@ by Cpt_NoHand
             name = "Help",
             payment = 0
         },
-	['1'] = {
+	    ['1'] = {
             name = "Trainee",
             payment = 50
         },
@@ -22,7 +22,7 @@ by Cpt_NoHand
             name = "Mechanic",
             payment = 75
         },
-	['3'] = {
+	    ['3'] = {
             name = "Boss Mechanic",
             payment = 100
         },
