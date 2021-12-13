@@ -15,7 +15,7 @@ made by Cpt_NoHand
             payment = 0
         },
 		['1'] = {
-            name = "Office",
+            name = "Trainee",
             payment = 50
         },
         ['2'] = {
@@ -23,7 +23,7 @@ made by Cpt_NoHand
             payment = 75
         },
 		['3'] = {
-            name = "Mechanic",
+            name = "Boss Mechanic",
             payment = 100
         },
         ['4'] = {
