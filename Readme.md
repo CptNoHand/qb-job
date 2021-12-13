@@ -2,12 +2,10 @@ Jobs Template for QB
 
 made by Cpt_NoHand
 
-# for QBCore Framework
 
 
+# insert into @qb-core - shared.lua
 ```
-## Insert into @qb-core - shared.lua
-
 QBShared.Jobs = {
     
     ["lscustoms"] = {
@@ -37,15 +35,11 @@ QBShared.Jobs = {
             },
         },
 	},
-    
 }		
-
 ```
 
 
-## Insert into @qb-bossmenu - config.lua
+## insert into @qb-bossmenu - config.lua
 ```
-
 ['lscustoms'] = vector3(x, y, z),
-
 ```
