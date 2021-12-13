@@ -9,6 +9,7 @@ made by Cpt_NoHand
 ## Insert into @qb-core - shared.lua
 
 QBShared.Jobs = {
+    
     ["lscustoms"] = {
 		label = "Los Santos Customs",
 		defaultDuty = true,
@@ -19,7 +20,6 @@ QBShared.Jobs = {
             },
 			['1'] = {
                 name = "Office",
-				isboss = true,
                 payment = 50
             },
             ['2'] = {
@@ -28,15 +28,16 @@ QBShared.Jobs = {
             },
 			['3'] = {
                 name = "Mechanic",
-				isboss = true,
                 payment = 100
             },
             ['4'] = {
                 name = "CEO",
+                isboss = true,
                 payment = 150
             },
         },
 	},
+    
 }		
 
 ```
